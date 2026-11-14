@@ -1,0 +1,17 @@
+# macOS & Python
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Compiled Swift binary (rebuilt automatically by engine/run_theme.py)
+bin/render_bin
+
+# Generated build & intermediate curation directories
+themes/*/output/
+themes/*/timeline.json
+themes/*/.render_frames/
+themes/*/.candidates/
+*.mp4

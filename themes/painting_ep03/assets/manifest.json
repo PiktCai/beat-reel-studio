@@ -1,0 +1,801 @@
+{
+  "s1_renaissance": [
+    {
+      "era": "s1_renaissance",
+      "idx": 1,
+      "title": "The Garden of Earthly Delights",
+      "file": "s1_renaissance_01.jpg",
+      "w": 960,
+      "h": 546,
+      "bytes": 243777
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 2,
+      "title": "The Birth of Venus",
+      "file": "s1_renaissance_02.jpg",
+      "w": 960,
+      "h": 603,
+      "bytes": 230561
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 3,
+      "title": "Assumption of the Virgin (Titian)",
+      "file": "s1_renaissance_03.jpg",
+      "w": 960,
+      "h": 1766,
+      "bytes": 594827
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 4,
+      "title": "Mona Lisa",
+      "file": "s1_renaissance_04.jpg",
+      "w": 960,
+      "h": 1431,
+      "bytes": 517340
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 5,
+      "title": "Arnolfini Portrait",
+      "file": "s1_renaissance_05.jpg",
+      "w": 960,
+      "h": 1313,
+      "bytes": 278626
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 6,
+      "title": "The School of Athens",
+      "file": "s1_renaissance_06.jpg",
+      "w": 960,
+      "h": 745,
+      "bytes": 285682
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 7,
+      "title": "The Tempest (Giorgione)",
+      "file": "s1_renaissance_07.jpg",
+      "w": 960,
+      "h": 1066,
+      "bytes": 370698
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 8,
+      "title": "Bacchus and Ariadne",
+      "file": "s1_renaissance_08.jpg",
+      "w": 960,
+      "h": 869,
+      "bytes": 243727
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 9,
+      "title": "Lady with an Ermine",
+      "file": "s1_renaissance_09.jpg",
+      "w": 960,
+      "h": 1291,
+      "bytes": 241130
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 10,
+      "title": "The Tower of Babel (Bruegel)",
+      "file": "s1_renaissance_10.jpg",
+      "w": 960,
+      "h": 702,
+      "bytes": 263334
+    },
+    {
+      "era": "s1_renaissance",
+      "idx": 11,
+      "title": "The Hunters in the Snow",
+      "file": "s1_renaissance_11.jpg",
+      "w": 960,
+      "h": 683,
+      "bytes": 267735
+    }
+  ],
+  "s2_baroque_art": [
+    {
+      "era": "s2_baroque_art",
+      "idx": 1,
+      "title": "The Storm on the Sea of Galilee",
+      "file": "s2_baroque_art_01.jpg",
+      "w": 960,
+      "h": 1193,
+      "bytes": 228392
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 2,
+      "title": "The Jewish Bride",
+      "file": "s2_baroque_art_02.jpg",
+      "w": 960,
+      "h": 700,
+      "bytes": 165703
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 3,
+      "title": "Judith Beheading Holofernes (Caravaggio)",
+      "file": "s2_baroque_art_03.jpg",
+      "w": 960,
+      "h": 716,
+      "bytes": 164858
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 4,
+      "title": "Judith Slaying Holofernes (Artemisia Gentileschi, Florence)",
+      "file": "s2_baroque_art_04.jpg",
+      "w": 960,
+      "h": 1167,
+      "bytes": 235793
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 5,
+      "title": "The Night Watch",
+      "file": "s2_baroque_art_05.jpg",
+      "w": 960,
+      "h": 781,
+      "bytes": 186693
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 6,
+      "title": "The Art of Painting",
+      "file": "s2_baroque_art_06.jpg",
+      "w": 960,
+      "h": 1141,
+      "bytes": 273515
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 7,
+      "title": "Girl with a Pearl Earring",
+      "file": "s2_baroque_art_07.jpg",
+      "w": 960,
+      "h": 1137,
+      "bytes": 321196
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 8,
+      "title": "The Milkmaid (Vermeer)",
+      "file": "s2_baroque_art_08.png",
+      "w": 960,
+      "h": 1079,
+      "bytes": 1666328
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 9,
+      "title": "The Astronomer (Vermeer)",
+      "file": "s2_baroque_art_09.jpg",
+      "w": 960,
+      "h": 1091,
+      "bytes": 233808
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 10,
+      "title": "The Calling of Saint Matthew",
+      "file": "s2_baroque_art_10.jpg",
+      "w": 960,
+      "h": 907,
+      "bytes": 170525
+    },
+    {
+      "era": "s2_baroque_art",
+      "idx": 11,
+      "title": "Las Meninas",
+      "file": "s2_baroque_art_11.jpg",
+      "w": 960,
+      "h": 1105,
+      "bytes": 206886
+    }
+  ],
+  "s3_ukiyoe": [
+    {
+      "era": "s3_ukiyoe",
+      "idx": 1,
+      "title": "Night Snow at Kambara",
+      "file": "s3_ukiyoe_01.jpg",
+      "w": 960,
+      "h": 1329,
+      "bytes": 503057
+    },
+    {
+      "era": "s3_ukiyoe",
+      "idx": 2,
+      "title": "Whirlpools at Awa",
+      "file": "s3_ukiyoe_02.jpg",
+      "w": 960,
+      "h": 1382,
+      "bytes": 452862
+    },
+    {
+      "era": "s3_ukiyoe",
+      "idx": 3,
+      "title": "Sudden Shower over Shin-Ōhashi bridge and Atake",
+      "file": "s3_ukiyoe_03.jpg",
+      "w": 960,
+      "h": 1402,
+      "bytes": 478005
+    },
+    {
+      "era": "s3_ukiyoe",
+      "idx": 4,
+      "title": "Ōtani Oniji III as Yakko Edobei",
+      "file": "s3_ukiyoe_04.jpg",
+      "w": 960,
+      "h": 1409,
+      "bytes": 388022
+    },
+    {
+      "era": "s3_ukiyoe",
+      "idx": 5,
+      "title": "Three Beauties of the Present Day",
+      "file": "s3_ukiyoe_05.jpg",
+      "w": 960,
+      "h": 1410,
+      "bytes": 284040
+    },
+    {
+      "era": "s3_ukiyoe",
+      "idx": 6,
+      "title": "Plum Estate, Kameido",
+      "file": "s3_ukiyoe_06.jpg",
+      "w": 960,
+      "h": 1411,
+      "bytes": 535330
+    },
+    {
+      "era": "s3_ukiyoe",
+      "idx": 7,
+      "title": "Fine Wind, Clear Morning",
+      "file": "s3_ukiyoe_07.jpg",
+      "w": 960,
+      "h": 662,
+      "bytes": 224755
+    },
+    {
+      "era": "s3_ukiyoe",
+      "idx": 8,
+      "title": "Kajikazawa in Kai Province",
+      "file": "s3_ukiyoe_08.jpg",
+      "w": 750,
+      "h": 513,
+      "bytes": 107778
+    },
+    {
+      "era": "s3_ukiyoe",
+      "idx": 9,
+      "title": "The Great Wave off Kanagawa",
+      "file": "s3_ukiyoe_09.jpg",
+      "w": 960,
+      "h": 645,
+      "bytes": 255035
+    },
+    {
+      "era": "s3_ukiyoe",
+      "idx": 10,
+      "title": "Under the Mannen Bridge at Fukagawa",
+      "file": "s3_ukiyoe_10.jpg",
+      "w": 960,
+      "h": 639,
+      "bytes": 263139
+    }
+  ],
+  "s4_romanticism": [
+    {
+      "era": "s4_romanticism",
+      "idx": 1,
+      "title": "The Raft of the Medusa",
+      "file": "s4_romanticism_01.jpg",
+      "w": 960,
+      "h": 655,
+      "bytes": 214509
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 2,
+      "title": "The Hay Wain",
+      "file": "s4_romanticism_02.jpg",
+      "w": 960,
+      "h": 662,
+      "bytes": 229333
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 3,
+      "title": "Saturn Devouring His Son",
+      "file": "s4_romanticism_03.jpg",
+      "w": 960,
+      "h": 1763,
+      "bytes": 592674
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 4,
+      "title": "Wanderer above the Sea of Fog",
+      "file": "s4_romanticism_04.jpg",
+      "w": 960,
+      "h": 1231,
+      "bytes": 300118
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 5,
+      "title": "Chalk Cliffs on Rügen",
+      "file": "s4_romanticism_05.jpg",
+      "w": 960,
+      "h": 1209,
+      "bytes": 455359
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 6,
+      "title": "Flaming June",
+      "file": "s4_romanticism_06.jpg",
+      "w": 960,
+      "h": 961,
+      "bytes": 230714
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 7,
+      "title": "Liberty Leading the People",
+      "file": "s4_romanticism_07.jpg",
+      "w": 960,
+      "h": 768,
+      "bytes": 203134
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 8,
+      "title": "The Third of May 1808",
+      "file": "s4_romanticism_08.jpg",
+      "w": 960,
+      "h": 741,
+      "bytes": 141114
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 9,
+      "title": "Snow Storm: Steam-Boat off a Harbour's Mouth",
+      "file": "s4_romanticism_09.jpg",
+      "w": 960,
+      "h": 719,
+      "bytes": 256382
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 10,
+      "title": "The Sea of Ice",
+      "file": "s4_romanticism_10.jpg",
+      "w": 960,
+      "h": 718,
+      "bytes": 194941
+    },
+    {
+      "era": "s4_romanticism",
+      "idx": 11,
+      "title": "Rain, Steam and Speed – The Great Western Railway",
+      "file": "s4_romanticism_11.jpg",
+      "w": 960,
+      "h": 717,
+      "bytes": 208413
+    }
+  ],
+  "s5_impressionism": [
+    {
+      "era": "s5_impressionism",
+      "idx": 1,
+      "title": "Water Lilies (Monet series)",
+      "file": "s5_impressionism_01.jpg",
+      "w": 960,
+      "h": 548,
+      "bytes": 138966
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 2,
+      "title": "Haystacks (Monet series)",
+      "file": "s5_impressionism_02.jpg",
+      "w": 960,
+      "h": 569,
+      "bytes": 236813
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 3,
+      "title": "The Cradle (Morisot)",
+      "file": "s5_impressionism_03.jpg",
+      "w": 960,
+      "h": 1235,
+      "bytes": 317217
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 4,
+      "title": "Woman with a Parasol – Madame Monet and Her Son",
+      "file": "s5_impressionism_04.jpg",
+      "w": 960,
+      "h": 1193,
+      "bytes": 405251
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 5,
+      "title": "The Ballet Class (Degas, Musée d'Orsay)",
+      "file": "s5_impressionism_05.jpg",
+      "w": 960,
+      "h": 1102,
+      "bytes": 374638
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 6,
+      "title": "Impression, Sunrise",
+      "file": "s5_impressionism_06.jpg",
+      "w": 960,
+      "h": 745,
+      "bytes": 164632
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 7,
+      "title": "Carnation, Lily, Lily, Rose",
+      "file": "s5_impressionism_07.jpg",
+      "w": 960,
+      "h": 1085,
+      "bytes": 417508
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 8,
+      "title": "Paris Street; Rainy Day",
+      "file": "s5_impressionism_08.jpg",
+      "w": 960,
+      "h": 727,
+      "bytes": 163791
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 9,
+      "title": "Bal du moulin de la Galette",
+      "file": "s5_impressionism_09.jpg",
+      "w": 960,
+      "h": 714,
+      "bytes": 264933
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 10,
+      "title": "Luncheon of the Boating Party",
+      "file": "s5_impressionism_10.jpg",
+      "w": 960,
+      "h": 711,
+      "bytes": 221802
+    },
+    {
+      "era": "s5_impressionism",
+      "idx": 11,
+      "title": "A Bar at the Folies-Bergère",
+      "file": "s5_impressionism_11.jpg",
+      "w": 960,
+      "h": 705,
+      "bytes": 219003
+    }
+  ],
+  "s6_post_impressionism": [
+    {
+      "era": "s6_post_impressionism",
+      "idx": 1,
+      "title": "Sunflowers (Van Gogh series)",
+      "file": "s6_post_impressionism_01.jpg",
+      "w": 960,
+      "h": 1211,
+      "bytes": 402508
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 2,
+      "title": "The Sleeping Gypsy",
+      "file": "s6_post_impressionism_02.jpg",
+      "w": 960,
+      "h": 613,
+      "bytes": 122699
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 3,
+      "title": "Bathers at Asnières",
+      "file": "s6_post_impressionism_03.jpg",
+      "w": 960,
+      "h": 637,
+      "bytes": 179313
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 4,
+      "title": "Café Terrace at Night",
+      "file": "s6_post_impressionism_04.jpg",
+      "w": 960,
+      "h": 1197,
+      "bytes": 407866
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 5,
+      "title": "Irises (painting)",
+      "file": "s6_post_impressionism_05.jpg",
+      "w": 960,
+      "h": 734,
+      "bytes": 352081
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 6,
+      "title": "At the Moulin Rouge",
+      "file": "s6_post_impressionism_06.jpg",
+      "w": 960,
+      "h": 840,
+      "bytes": 307529
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 7,
+      "title": "The Card Players",
+      "file": "s6_post_impressionism_07.jpg",
+      "w": 960,
+      "h": 787,
+      "bytes": 256715
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 8,
+      "title": "The Starry Night",
+      "file": "s6_post_impressionism_08.jpg",
+      "w": 960,
+      "h": 760,
+      "bytes": 343179
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 9,
+      "title": "Almond Blossoms",
+      "file": "s6_post_impressionism_09.jpg",
+      "w": 960,
+      "h": 758,
+      "bytes": 257495
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 10,
+      "title": "Starry Night Over the Rhône",
+      "file": "s6_post_impressionism_10.jpg",
+      "w": 960,
+      "h": 742,
+      "bytes": 293540
+    },
+    {
+      "era": "s6_post_impressionism",
+      "idx": 11,
+      "title": "The Dream (Rousseau painting)",
+      "file": "s6_post_impressionism_11.jpg",
+      "w": 960,
+      "h": 654,
+      "bytes": 192701
+    }
+  ],
+  "s7_secession": [
+    {
+      "era": "s7_secession",
+      "idx": 1,
+      "title": "The Demon Seated",
+      "file": "s7_secession_01.jpg",
+      "w": 960,
+      "h": 510,
+      "bytes": 201476
+    },
+    {
+      "era": "s7_secession",
+      "idx": 2,
+      "title": "Self-Portrait with Physalis",
+      "file": "s7_secession_02.jpg",
+      "w": 960,
+      "h": 777,
+      "bytes": 317468
+    },
+    {
+      "era": "s7_secession",
+      "idx": 3,
+      "title": "Judith and the Head of Holofernes (Klimt)",
+      "file": "s7_secession_03.jpg",
+      "w": 960,
+      "h": 1955,
+      "bytes": 760491
+    },
+    {
+      "era": "s7_secession",
+      "idx": 4,
+      "title": "Zodiac (Mucha)",
+      "file": "s7_secession_04.jpg",
+      "w": 960,
+      "h": 1302,
+      "bytes": 499824
+    },
+    {
+      "era": "s7_secession",
+      "idx": 5,
+      "title": "Madonna (Munch)",
+      "file": "s7_secession_05.jpg",
+      "w": 960,
+      "h": 1266,
+      "bytes": 483109
+    },
+    {
+      "era": "s7_secession",
+      "idx": 6,
+      "title": "Night in Saint-Cloud",
+      "file": "s7_secession_06.jpg",
+      "w": 960,
+      "h": 1156,
+      "bytes": 271858
+    },
+    {
+      "era": "s7_secession",
+      "idx": 7,
+      "title": "Danaë (Klimt)",
+      "file": "s7_secession_07.jpg",
+      "w": 960,
+      "h": 930,
+      "bytes": 224920
+    },
+    {
+      "era": "s7_secession",
+      "idx": 8,
+      "title": "The Three Ages of Woman (Klimt)",
+      "file": "s7_secession_08.jpg",
+      "w": 960,
+      "h": 955,
+      "bytes": 327955
+    },
+    {
+      "era": "s7_secession",
+      "idx": 9,
+      "title": "Hope, II",
+      "file": "s7_secession_09.jpg",
+      "w": 960,
+      "h": 967,
+      "bytes": 488144
+    },
+    {
+      "era": "s7_secession",
+      "idx": 10,
+      "title": "The Kiss (Klimt)",
+      "file": "s7_secession_10.jpg",
+      "w": 960,
+      "h": 963,
+      "bytes": 405103
+    },
+    {
+      "era": "s7_secession",
+      "idx": 11,
+      "title": "Avenue in Schloss Kammer Park",
+      "file": "s7_secession_11.jpg",
+      "w": 960,
+      "h": 961,
+      "bytes": 493736
+    }
+  ],
+  "s8_avantgarde": [
+    {
+      "era": "s8_avantgarde",
+      "idx": 1,
+      "title": "Composition VII",
+      "file": "s8_avantgarde_01.jpg",
+      "w": 960,
+      "h": 638,
+      "bytes": 258704
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 2,
+      "title": "On White II",
+      "file": "s8_avantgarde_02.jpg",
+      "w": 960,
+      "h": 1029,
+      "bytes": 226426
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 3,
+      "title": "Broadway Boogie Woogie",
+      "file": "s8_avantgarde_03.jpg",
+      "w": 960,
+      "h": 962,
+      "bytes": 193736
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 4,
+      "title": "Composition with Red, Blue and Yellow",
+      "file": "s8_avantgarde_04.jpg",
+      "w": 960,
+      "h": 973,
+      "bytes": 141701
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 5,
+      "title": "Suprematist Composition",
+      "file": "s8_avantgarde_05.jpg",
+      "w": 960,
+      "h": 1200,
+      "bytes": 218132
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 6,
+      "title": "Fate of the Animals",
+      "file": "s8_avantgarde_06.jpg",
+      "w": 960,
+      "h": 700,
+      "bytes": 359499
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 7,
+      "title": "Blue Horse I",
+      "file": "s8_avantgarde_07.jpg",
+      "w": 960,
+      "h": 1281,
+      "bytes": 440682
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 8,
+      "title": "Senecio (Klee)",
+      "file": "s8_avantgarde_08.jpg",
+      "w": 960,
+      "h": 1046,
+      "bytes": 314946
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 9,
+      "title": "Twittering Machine",
+      "file": "s8_avantgarde_09.jpg",
+      "w": 960,
+      "h": 1304,
+      "bytes": 420798
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 10,
+      "title": "Les Demoiselles d'Avignon",
+      "file": "s8_avantgarde_10.jpg",
+      "w": 960,
+      "h": 994,
+      "bytes": 250760
+    },
+    {
+      "era": "s8_avantgarde",
+      "idx": 11,
+      "title": "Homage to Blériot",
+      "file": "s8_avantgarde_11.jpg",
+      "w": 960,
+      "h": 951,
+      "bytes": 254934
+    }
+  ]
+}
